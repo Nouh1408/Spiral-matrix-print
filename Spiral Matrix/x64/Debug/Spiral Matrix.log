@@ -1,0 +1,4 @@
+﻿  Spiral Matrix.cpp
+D:\Enhancement\Data_Structure_&_Algorithim_(Udemy)\Spiral_Matrix\Spiral Matrix\Spiral Matrix.cpp(10,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Enhancement\Data_Structure_&_Algorithim_(Udemy)\Spiral_Matrix\Spiral Matrix\Spiral Matrix.cpp(12,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Spiral Matrix.vcxproj -> D:\Enhancement\Data_Structure_&_Algorithim_(Udemy)\Spiral_Matrix\x64\Debug\Spiral Matrix.exe
